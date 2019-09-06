@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class RiskRoller here.
+ * The main program for simulating Risk dice roll, utilizing the Risk class.
  *
  * @author (your name)
  * @version (a version number or a date)
