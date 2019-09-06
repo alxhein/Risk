@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Risk here.
+ * The algorithm for a risk battle, simulating 3 attacker dice and 2 defender dice.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Alex Hein
+ * @version 4/19/18
  */
 import java.util.*;
 public class Risk
