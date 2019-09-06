@@ -2,8 +2,8 @@
 /**
  * The main program for simulating Risk dice roll, utilizing the Risk class.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Alex Hein
+ * @version 4/19/18
  */
 import java.util.Scanner;
 public class RiskRoller
