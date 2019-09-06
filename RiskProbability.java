@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class RiskProbability here.
+ * Calculates the probability of winning a battle by doing 200000 trials / dice rolls.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Alex Hein
+ * @version 4/19/18
  */
 import java.util.Scanner;
 import java.util.ArrayList;
